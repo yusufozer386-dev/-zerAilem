@@ -2,17 +2,11 @@
   "plugins": [
     {
       "name": "YouTube Extension",
-      "description": "YouTube eklentisi",
+      "description": "YouTube eklentisi - Video izleme ve yönetim",
       "version": "1.0.0",
       "url": "https://raw.githubusercontent.com/yusufozer386-dev/-zerAilem/main/youtube-extension.json",
-      "author": "yusufozer386-dev"
-    },
-    {
-      "name": "YouTube",
-      "description": "YouTube sitesi",
-      "version": "1.0.0",
-      "url": "https://www.youtube.com",
-      "author": "yusufozer386-dev"
+      "author": "yusufozer386-dev",
+      "enabled": true
     }
   ]
 }
