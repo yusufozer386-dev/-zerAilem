@@ -6,6 +6,13 @@
       "version": "1.0.0",
       "url": "https://raw.githubusercontent.com/yusufozer386-dev/-zerAilem/builds/youtube-extension.json",
       "author": "yusufozer386-dev"
+    },
+    {
+      "name": "Dizipal Extension",
+      "description": "Dizipal eklentisi",
+      "version": "1.0.0",
+      "url": "https://dizipal2130.com",
+      "author": "yusufozer386-dev"
     }
   ]
 }
