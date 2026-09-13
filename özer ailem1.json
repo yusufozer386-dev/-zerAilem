@@ -1,8 +1,12 @@
 {
   "name": "My Custom CloudStream Repo",
   "manifestVersion": 1,
+  "author": "yusufozer386-dev",
+  "description": "Kişisel CloudStream eklentileri deposu",
+  "repositoryUrl": "https://github.com/yusufozer386-dev/-zerAilem",
+  "buildUrl": "https://raw.githubusercontent.com/yusufozer386-dev/-zerAilem/builds",
   "pluginLists": [
-    "https://raw.githubusercontent.com/kullaniciadi/repo-adi/builds/plugins.json"
+    "https://raw.githubusercontent.com/yusufozer386-dev/-zerAilem/builds/plugins.json"
   ],
   "featured": {
     "title": "YouTube Extension",
