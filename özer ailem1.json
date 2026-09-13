@@ -1,0 +1,11 @@
+{
+  "name": "My Custom CloudStream Repo",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/kullaniciadi/repo-adi/builds/plugins.json"
+  ],
+  "featured": {
+    "title": "YouTube Extension",
+    "url": "https://www.youtube.com/watch?v=z3NjaaxeVtY"
+  }
+}
