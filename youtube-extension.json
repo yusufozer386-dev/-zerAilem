@@ -1,0 +1,14 @@
+{
+  "id": "youtube-extension",
+  "name": "YouTube Extension",
+  "description": "YouTube eklentisi - Video izleme ve yönetim",
+  "version": "1.0.0",
+  "author": "yusufozer386-dev",
+  "permissions": ["youtube"],
+  "features": [
+    "Video arama",
+    "Video oynatma",
+    "Oynatma listesi yönetimi"
+  ],
+  "enabled": true
+}
